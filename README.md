@@ -2,8 +2,8 @@
 Docker container for ember unit testing
 
 ### Tags (Equal to ember-cli releases):
-- latest/v2.3.0-beta.1
-
+- latest/v2.3.0-beta.2
+- v2.3.0-beta.1
 ### Contains:
 - phantomJS 2.0
 - node 4.x
