@@ -4,4 +4,4 @@ RUN curl -sL https://deb.nodesource.com/setup_4.x | bash -
 
 RUN apt-get install -y nodejs
 
-RUN npm install bower ember-cli@2.4.3 -g
+RUN npm install bower ember-cli@2.5.0 -g
