@@ -2,7 +2,8 @@
 Docker container for ember unit testing
 
 ### Tags (Equal to ember-cli releases):
-- latest/v2.7.0
+- latest/v2.8.0
+- v2.7.0
 - v2.6.0
 - v2.6.0-beta.1
 - v2.5.0
